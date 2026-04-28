@@ -98,7 +98,7 @@ public class KaranPrajapat extends SoftwareEngineer {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpraja902&repo=ticket-sales-microservices&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 <a href="https://github.com/karanpraja902/job-portal-microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpraja902&repo=job-portal-microservice&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpraja902&repo=job-portal-microservices&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
 </div>
