@@ -23,9 +23,7 @@
 public class KaranPrajapat extends SoftwareEngineer {
 
     private final String name        = "Karan Prajapat";
-    private final String location    = "Delhi, India 🇮🇳";
-    private final String education   = "B.Tech @ NSUT (2022 – Present)";
-    private final String focus       = "Backend Engineering · Distributed Systems · Microservices";
+    private final String focus       = "Backend Engineer · Microservices";
 
     private final String[] currentlyWorking = {
         "Event-Driven Ticket Sales Microservices (Kafka + Debezium)",
@@ -90,43 +88,7 @@ public class KaranPrajapat extends SoftwareEngineer {
 
 ---
 
-## 💼 Experience
 
-<table>
-  <tr>
-    <td><b>🏢 Company</b></td>
-    <td><b>💼 Role</b></td>
-    <td><b>📅 Duration</b></td>
-    <td><b>📍 Location</b></td>
-  </tr>
-  <tr>
-    <td><b>Gan.AI</b></td>
-    <td>Full Stack Developer Intern</td>
-    <td>Oct 2025 – Mar 2026</td>
-    <td>Noida</td>
-  </tr>
-  <tr>
-    <td><b>PharmEasy</b></td>
-    <td>SDE Intern</td>
-    <td>Mar 2025 – Sep 2025</td>
-    <td>Remote</td>
-  </tr>
-  <tr>
-    <td><b>RedBus</b></td>
-    <td>Frontend Intern</td>
-    <td>May 2024 – Jul 2024</td>
-    <td>Gurgaon</td>
-  </tr>
-</table>
-
-### 🔍 Highlights
-- ⚡ Reduced **MTTR by 42%** at Gan.AI by analyzing logs, stack traces & SQL data — restoring **3,500+ daily** AI video workflows
-- 📉 Reduced **API error rates by 38%** at PharmEasy across systems handling **1.2M+ daily requests**
-- 🐛 Debugged **OAuth 2.0, JWT & AWS S3** media pipeline issues — achieving **99.7% platform uptime**
-- 🔖 Cut recurring ticket volume by **27%** via improved runbooks and diagnostic scripts
-- 🚀 Improved page load reliability by **35%** at RedBus for **500K+ monthly users**
-
----
 
 ## 🚀 Featured Projects
 
@@ -135,7 +97,7 @@ public class KaranPrajapat extends SoftwareEngineer {
 <a href="https://github.com/karanpraja902/ticket-sales-microservices">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpraja902&repo=ticket-sales-microservices&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/karanpraja902/job-portal-microservice">
+<a href="https://github.com/karanpraja902/job-portal-microservices">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpraja902&repo=job-portal-microservice&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
