@@ -123,8 +123,6 @@ public class KaranPrajapat extends SoftwareEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karanpraja902&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpraja902&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=karanpraja902&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="180"/>
 
